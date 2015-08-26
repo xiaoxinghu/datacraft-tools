@@ -1,4 +1,5 @@
 require 'nori'
+require 'pathname'
 
 module Datacraft::Tools::QA
   # Allure Test Case Reader
